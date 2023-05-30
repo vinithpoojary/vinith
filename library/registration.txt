@@ -1,0 +1,4 @@
+college ID :
+student register number:
+student name:
+librarian should provide membership card to the student..
